@@ -24,7 +24,7 @@ To use it in a web page, just add the css in your project.
 ```html
 <link href="https://path/to/font-ign/public/font-ign.css" rel="stylesheet" />
 ```
-Then use an inline element with a class prefixed with `fg-` to add a new icon.    
+Then use an inline element with a class prefixed with `fi-` to add a new icon.    
 ```html
 <!-- prefix: fi - icon name: locate -->
 <i class="fi-locate"></i>
