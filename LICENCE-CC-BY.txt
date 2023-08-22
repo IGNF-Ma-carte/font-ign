@@ -1,5 +1,6 @@
 Attribution 4.0 International
 
+All icon and SVG files are licensed under the CC-BY-4.0 License.
 =======================================================================
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and
