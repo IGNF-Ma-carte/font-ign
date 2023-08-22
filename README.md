@@ -57,7 +57,7 @@ npm start
 
 ## Licenses
 
-Copyright (c) 2021 IGN-France
+Copyright (c) 2021 IGN-France   
 Font-IGN is free, open source, and GPL friendly. You can use it for commercial projects, open source projects, or really almost whatever you want. Read full Font-GIS license
 
 * Font-GIS font is licensed under the SIL OFL 1.1 License
