@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="icon-arrow-down"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   version="1.1"
+   sodipodi:docname="uEA44-arrow-up.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.6583333"
+     inkscape:cx="187.8392"
+     inkscape:cy="292.16081"
+     inkscape:window-width="2880"
+     inkscape:window-height="1721"
+     inkscape:window-x="1909"
+     inkscape:window-y="3"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="icon-arrow-down" />
+  <path
+     id="Combined_Shape"
+     data-name="Combined Shape"
+     d="M 15.669708,52.68585 43.516168,24.83939 V 99.999999 H 56.473032 V 24.83939 L 84.33569,52.68585 93.51347,43.508074 50,1.5e-6 6.48653,43.508074 Z"
+     fill="#091625"
+     style="stroke-width:5.39869" />
+</svg>

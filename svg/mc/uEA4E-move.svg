@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="icon-move"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   version="1.1"
+   sodipodi:docname="uEA4E-move.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.6583333"
+     inkscape:cx="-93.165831"
+     inkscape:cy="214.97488"
+     inkscape:window-width="1920"
+     inkscape:window-height="1457"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="icon-move" />
+  <defs
+     id="defs4" />
+  <g
+     id="Groupe_10"
+     data-name="Groupe 10"
+     transform="matrix(5,0,0,5,-0.04907301,0)">
+    <path
+       id="Combined_Shape-2"
+       data-name="Combined Shape"
+       d="M 11.136,20 H 11.047 11.033 11.025 11.01 11 10.985 10.979 10.964 10.96 10.945 10.937 10.924 10.914 10.903 10.891 10.883 10.868 v 0 l -0.019,-0.006 v 0 A 0.907,0.907 0 0 1 10.497,19.775 L 7.766,17.007 A 0.90933932,0.90933932 0 0 1 9.052,15.721 L 10.227,16.9 V 0.909 a 0.909,0.909 0 0 1 1.818,0 V 16.9 l 1.176,-1.176 a 0.90933932,0.90933932 0 1 1 1.286,1.286 L 11.8,19.716 a 0.914,0.914 0 0 1 -0.179,0.147 v 0 l -0.018,0.011 v 0 l -0.016,0.009 v 0 l -0.016,0.008 v 0 l -0.015,0.008 v 0 l -0.016,0.008 v 0 l -0.017,0.008 v 0 l -0.019,0.008 v 0 l -0.02,0.008 v 0 l -0.021,0.007 v 0 a 0.9,0.9 0 0 1 -0.192,0.045 v 0 H 11.25 v 0 L 11.2,20 H 11.134 Z M 2.727,19.091 V 3.1 L 1.551,4.28 A 0.909,0.909 0 0 1 0.267,2.994 L 2.975,0.285 a 0.914,0.914 0 0 1 0.18,-0.147 v 0 L 3.174,0.126 v 0 l 0.017,-0.01 v 0 L 3.212,0.105 v 0 L 3.231,0.1 v 0 L 3.252,0.085 v 0 l 0.02,-0.009 v 0 L 3.294,0.067 v 0 l 0.02,-0.008 v 0 A 0.9,0.9 0 0 1 3.549,0 v 0 h 0.02 0.154 0.02 v 0 a 0.9,0.9 0 0 1 0.212,0.052 v 0 l 0.019,0.007 v 0 L 4,0.074 V 0.077 L 4.014,0.083 H 4.021 L 4.033,0.089 H 4.042 L 4.054,0.1 4.065,0.106 H 4.073 L 4.086,0.113 H 4.092 L 4.105,0.13 v 0 L 4.12,0.139 v 0 L 4.136,0.15 v 0 l 0.017,0.012 v 0 L 4.18,0.181 v 0 a 0.918,0.918 0 0 1 0.1,0.086 L 7.006,2.994 A 0.909,0.909 0 0 1 5.721,4.28 L 4.545,3.1 v 15.991 a 0.909,0.909 0 0 1 -1.818,0 z"
+       transform="translate(2.614)"
+       fill="#091625" />
+  </g>
+</svg>

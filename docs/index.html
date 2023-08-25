@@ -1,0 +1,242 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <title>Font-IGN</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+	<meta name="description" content="Icon font and SVG for use with GIS and spatial analysis tools." />
+	<meta name="keywords" content="svg,font,icons,geo,map,gis,geospacial" />
+  <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1" />
+
+  <link href="./font-ign.css?" rel="stylesheet" />
+  <link href="./index.css" rel="stylesheet" />
+  <!--
+    Code highlighting https://tohtml.com/ style Bred3
+  -->
+</head>
+<body>
+  <div id="header">
+    <h1>Font-IGN</h1>
+    <p>SVG icons and font to use with GIS and spatial analysis tools</p>
+    <ul>
+      <li class='fg' onclick="showPage('fg')">
+        Font-IGN
+      </li><li class='icons' onclick="showPage('icons')">
+        Icons
+      </li><li class='example' onclick="showPage('example')">
+        Examples
+      </li>
+    </ul>
+  </div>
+  <div id="buttons">
+    <!--
+    <a href="https://www.npmjs.com/package/font-ign"><img src="https://img.shields.io/npm/v/font-ign.svg" /></a>
+    <a class="github-button" href="https://github.com/viglino/font-ign" data-icon="octicon-star" data-show-count="true" aria-label="Star viglino/ol-ext on GitHub">Star</a>
+    <a class="github-button" href="https://github.com/viglino/font-ign/issues" data-icon="octicon-issue-opened" data-show-count="true" aria-label="Issue viglino/ol-ext on GitHub">Issue</a>
+    <a class="github-button" href="https://github.com/viglino/font-ign/subscription" data-icon="octicon-eye" data-show-count="true" aria-label="Watch viglino/ol-ext on GitHub">Watch</a>
+    <a class="twitter-share-button" 
+      href="https://twitter.com/intent/tweet" 
+      data-url="https://viglino.github.io/font-ign/"
+      data-text="#SVG and #font to use with #GIS and #geospatial tools by @jmviglino">
+      Tweet
+    </a>
+    -->
+  </div>
+
+  <div data-page="fg">
+    <h2>What is Font-IGN?</h2>
+    <i class="fi fi-location fi-5x"></i>
+    <p>
+    </p>
+
+    <h2>How to use it?</h2>
+    <p>
+      You can use Font-IGN as a font or as SVG symbols or images.
+    </p>
+    <p>
+      To use it in a web page, just add the css in your project.
+    </p>
+<pre style="width: 100%; color:#000000;background:#f1f0f0;"><span style="color:#a65700; ">&lt;</span><span style="color:#400000; font-weight:bold; ">link</span><span style="color:#074726; "> </span><span style="color:#074726; ">href</span><span style="color:#806030; ">=</span><span style="color:#e60000; ">"https://{Path_to_font_IGN}/public/font-ign.css"</span><span style="color:#074726; "> </span><span style="color:#074726; ">rel</span><span style="color:#806030; ">=</span><span style="color:#e60000; ">"stylesheet"</span><span style="color:#074726; "> </span><span style="color:#a65700; ">/&gt;</span></pre>
+          
+    <p>
+      Then use an inline element with a class prefixed with fi- to add a new icon.
+    </p>
+<pre style="color:#000000;background:#f1f0f0;"><span style="color:#a65700; ">&lt;</span><span style="color:#400000; font-weight:bold; ">i</span><span style="color:#074726; "> </span><span style="color:#074726; ">class</span><span style="color:#806030; ">=</span><span style="color:#e60000; ">"fi-location"</span><span style="color:#a65700; ">&gt;</span><span style="color:#a65700; ">&lt;/</span><span style="color:#400000; font-weight:bold; ">i</span><span style="color:#a65700; ">&gt;</span></pre>
+    <i class="fi-location fi-2x"></i> 
+
+    <p>
+      Using a &lt;span&gt; is more semantically correct but a little bit verbose:
+    </p>
+<pre style="color:#000000;background:#f1f0f0;"><span style="color:#a65700; ">&lt;</span><span style="color:#400000; font-weight:bold; ">span</span><span style="color:#074726; "> </span><span style="color:#074726; ">class</span><span style="color:#806030; ">=</span><span style="color:#e60000; ">"fi-polygon"</span><span style="color:#a65700; ">&gt;</span><span style="color:#a65700; ">&lt;/</span><span style="color:#400000; font-weight:bold; ">span</span><span style="color:#a65700; ">&gt;</span></pre>
+    <span class="fi-polygon fi-2x"></span> 
+
+      
+    <p>
+      Or use it as an svg sprite (svg sprites are inlocated in the <code>./public/font-ign.svg</code> file):
+    </p>
+<pre style="color:#000000;background:#f1f0f0;"><span style="color:#a65700; ">&lt;</span><span style="color:#5f5035; ">svg</span> <span style="color:#074726; ">class</span><span style="color:#806030; ">=</span><span style="color:#800000; ">"</span><span style="color:#e60000; ">font-ign fi-2x</span><span style="color:#800000; ">"</span><span style="color:#a65700; ">&gt;</span>
+  <span style="color:#a65700; ">&lt;</span><span style="color:#5f5035; ">use</span> <span style="color:#007997; ">xlink</span><span style="color:#806030; ">:</span><span style="color:#074726; ">href</span><span style="color:#806030; ">=</span><span style="color:#800000; ">"</span><span style="color:#e60000; ">path/to/public/font-ign.svg#fi-polygon</span><span style="color:#800000; ">"</span> <span style="color:#a65700; ">/&gt;</span>
+<span style="color:#a65700; ">&lt;/</span><span style="color:#5f5035; ">svg</span><span style="color:#a65700; ">&gt;</span>
+</pre>
+    <svg class="font-ign fi-2x">
+      <use xlink:href="./font-ign.svg#fi-polygon" />
+    </svg>
+
+    <br style="clear: both;" />
+    <h2>NPM package</h2>
+    <p>
+    </p>
+    <p>
+      The font is located in the <code>./public</code> directory, 
+      the css and svg sprites are located in the 
+      <code>./public/font-ign.css</code> and <code>./public/font-ign.svg</code> 
+      files of the font-ign project.
+    </p>
+  </div>
+
+  <div data-page="icons">
+    <div id="icon">
+      <div>
+        <i class="fi-location fi-5x"></i>
+        <i class="fi-location fi-4x"></i>
+        <i class="fi-location fi-3x"></i>
+        <i class="fi-location fi-2x"></i>
+        <i class="fi-location fi-1x"></i>
+        <button class="color"></button>
+        <select dir="rtl" onclick="save(this.value)">
+          <option value="none">save</option>
+          <option value="svg">SVG</option>
+          <option value="24">PNG 24x24</option>
+          <option value="60">PNG 60x60</option>
+          <option value="100">PNG 100x100</option>
+          <option value="200">PNG 200x200</option>
+          <option value="1000">PNG 1000x1000</option>
+        </select>
+        <br/>
+        <h2>fi-location</h2>
+        <p>
+          Unicode: <span class="code"></span>
+          -
+          Theme: <span class="theme" onclick="search($(this).text())"></span>
+          -
+          <span class="tags"></span>
+        </p>
+      </div>
+    </div>
+    <div id="search">
+      <div>
+        <i class="fi-search"></i>
+        <input type="search" placeholder="search icon..." />
+        <span class="nb"></span> icons
+        <div class="news" onclick="search('new');">new</div>
+      </div>
+    </div>
+    <div id="content">
+    </div>
+  </div>
+  <div data-page="svg">
+    <div id="content">
+    </div>
+  </div>
+
+  <div data-page="example">
+    <h2>Icon size and color</h2>
+    <p>
+      To increase icon sizes relative to their container, 
+      use the <code>fi-lg</code> (33% increase), 
+      <code>fi-2x</code>, <code>fi-3x</code>, <code>fi-4x</code>, or <code>fi-5x</code> classes.
+      <br/>
+      <i class="fi-map-background"></i>
+      <i class="fi-map-background fi-lg"></i>
+      <i class="fi-map-background fi-2x"></i>
+      <i class="fi-map-background fi-3x"></i>
+      <i class="fi-map-background fi-4x"></i>
+      <i class="fi-map-background fi-5x"></i>
+    </p>
+    <p>
+      Use CSS color to change font color:
+      <br/>
+      <i class="fi-user fi-2x" style="color:#800;"></i>
+      <i class="fi-user fi-2x" style="color:#880;"></i>
+      <i class="fi-user fi-2x" style="color:#080;"></i>
+      <i class="fi-user fi-2x" style="color:#088;"></i>
+      <i class="fi-user fi-2x" style="color:#008;"></i>
+      <i class="fi-user fi-2x" style="color:#808;"></i>
+    </p>
+    <h2>Fixed width icons</h2>
+    <p>
+      Use <code>fi-fw</code> class to set icons at a fixed width. 
+      Especially designed to use in nav lists & list groups to preserve alignment.
+      <ul>
+        <li>
+          <i class="fi-user fi-fw fi-2x"></i> User
+        </li>
+        <li>
+          <i class="fi-pro fi-fw fi-2x"></i> User pro
+        </li>
+        <li>
+          <i class="fi-user-alt fi-fw fi-2x"></i> user checked
+        </li>
+        <li>
+          <i class="fi-delete fi-fw fi-2x"></i> Delete
+        </li>
+      </ul>
+    </p>
+    <h2>Rotated and flipped icons</h2>
+    <p>
+      Use <code>fi-rotate*</code> classes to rotate icons (-20, -10, 10, 20, 45, 90, 135, 180, 225, 270 or 315).
+      <br/> 
+      <i class="fi-ecosystem fi-2x"></i> 
+      <i class="fi-ecosystem fi-rotate-10 fi-2x"></i> 
+      <i class="fi-ecosystem fi-rotate10 fi-2x"></i> 
+      <i class="fi-ecosystem fi-rotate-20 fi-2x"></i> 
+      <i class="fi-ecosystem fi-rotate20 fi-2x"></i> 
+    </p>
+    <p>
+      Use <code>fi-flipv</code> or <code>fi-fliph</code> classes to flip icons vertically or horizontally.
+      <br/> 
+      <i class="fi-like fi-2x"></i> 
+      <i class="fi-like fi-fliph fi-2x"></i> 
+    </p>
+    <h2>Stacked icons</h2>
+    <p>
+      To stack multiple icons, use the <code>fi-stack</code> class on the parent.
+<pre style="color:#000000;background:#f1f0f0;"><span style="color:#a65700; ">&lt;</span><span style="color:#400000; font-weight:bold; ">span</span><span style="color:#074726; "> </span><span style="color:#074726; ">class</span><span style="color:#806030; ">=</span><span style="color:#e60000; ">"fi-stack fg-3x"</span><span style="color:#a65700; ">&gt;</span>
+  <span style="color:#a65700; ">&lt;</span><span style="color:#400000; font-weight:bold; ">i</span><span style="color:#074726; "> </span><span style="color:#074726; ">class</span><span style="color:#806030; ">=</span><span style="color:#e60000; ">"fi-map-background"</span><span style="color:#074726; "> </span><span style="color:#074726; ">style</span><span style="color:#806030; ">=</span><span style="color:#e60000; ">"</span><span style="color:#bb7977; font-weight:bold; ">color</span><span style="color:#806030; ">:</span><span style="color:#8c0000; ">#</span><span style="color:#c00000; ">666</span><span style="color:#806030; ">;</span><span style="color:#e60000; ">"</span><span style="color:#a65700; ">&gt;</span><span style="color:#a65700; ">&lt;/</span><span style="color:#400000; font-weight:bold; ">i</span><span style="color:#a65700; ">&gt;</span> 
+  <span style="color:#a65700; ">&lt;</span><span style="color:#400000; font-weight:bold; ">i</span><span style="color:#074726; "> </span><span style="color:#074726; ">class</span><span style="color:#806030; ">=</span><span style="color:#e60000; ">"fi-point"</span><span style="color:#074726; "> </span><span style="color:#074726; ">style</span><span style="color:#806030; ">=</span><span style="color:#e60000; ">"</span><span style="color:#bb7977; font-weight:bold; ">color</span><span style="color:#806030; ">:</span><span style="color:#8c0000; ">#</span><span style="color:#c00000; ">800</span><span style="color:#806030; ">;</span><span style="color:#e60000; ">"</span><span style="color:#a65700; ">&gt;</span><span style="color:#a65700; ">&lt;/</span><span style="color:#400000; font-weight:bold; ">i</span><span style="color:#a65700; ">&gt;</span> 
+<span style="color:#a65700; ">&lt;/</span><span style="color:#400000; font-weight:bold; ">span</span><span style="color:#a65700; ">&gt;</span></pre>
+      <br/>
+      <span class="fi-stack fi-3x">
+        <i class="fi-map-background" style="color:#666;"></i> 
+        <i class="fi-point" style="color: #800;"></i> 
+      </span>
+    </p>
+
+    <h2>Animations</h2>
+    <p>
+      Use <code>fi-spin</code> or <code>fi-pulse</code> classes to animate icons.
+    </p>
+    <span class=" fi-stack fi-3x">
+      <i class="fi-compass fi-spin" style="color:#666;"></i> 
+    </span>
+    ...spin or pulse...
+    <span class=" fi-stack fi-3x">
+      <i class="fi-compass fi-pulse" style="color:#666;"></i> 
+    </span>
+  </div>
+
+  <div id="footer">
+		<div>
+		</div>
+	</div>
+
+  <!-- jQuery -->
+  <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+  <!-- filesaver-js -->
+  <script type="text/javascript" src="https://cdn.rawgit.com/eligrey/FileSaver.js/aa9f4e0e/FileSaver.min.js"></script>
+  <!-- Color picker -->
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@r-tek/colr_pickr@2.0.0/build/colr_pickr.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@r-tek/colr_pickr@2.0.0/build/colr_pickr.min.css" />
+
+  <script type="text/javascript" src="./index.js"></script>
+</body>

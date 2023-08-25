@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 100 100"
+   height="100"
+   width="100"
+   id="icon-share2"
+   sodipodi:docname="uE90F-linkedin.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="971"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="7.8666667"
+     inkscape:cx="24.755135"
+     inkscape:cy="6.0317705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="icon-share2" />
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4" />
+  <path
+     d="m 35.714286,32.142868 h 19.766292 v 10.1319 h 0.2826 c 2.749999,-4.932367 9.481919,-10.1319 19.513615,-10.1319 C 96.141294,32.142868 100,45.131267 100,62.023899 V 96.428563 H 79.396209 V 65.928799 c 0,-7.275 -0.1489,-16.632365 -10.717413,-16.632365 -10.730802,0 -12.368302,7.922532 -12.368302,16.104032 V 96.428563 H 35.714293 Z m -35.71428575000001,0 H 21.428569 V 96.428563 H 2.5e-7 Z M 21.428569,14.285737 c 0,5.917399 -4.796873,10.714265 -10.714283,10.714265 C 4.7968731,25.000002 2.5e-7,20.203136 2.5e-7,14.285737 2.5e-7,8.3683038 4.7968731,3.5714372 10.714286,3.5714372 c 5.91741,0 10.714283,4.7968666 10.714283,10.7142998 z"
+     style="fill:#091625;stroke-width:0"
+     id="path5"
+     inkscape:connector-curvature="0" />
+</svg>

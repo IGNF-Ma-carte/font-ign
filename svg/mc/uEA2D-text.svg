@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="icon_text"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   version="1.1"
+   sodipodi:docname="uEA2D-text.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="971"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="7.8666667"
+     inkscape:cx="-8.1991525"
+     inkscape:cy="15"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="icon_text" />
+  <path
+     style="fill:#091625;stroke-width:4.4845829"
+     d="m 76.282394,10.896134 a 4.485527,4.485527 0 0 0 0.183935,8.969167 h 5.036398 v 60.261584 h -5.036398 a 4.4845841,4.4845841 0 0 0 0,8.969168 l 19.05072,0.0087 a 4.4845831,4.4845831 0 0 0 0,-8.969165 H 90.471892 V 19.865301 h 5.045157 a 4.4845841,4.4845841 0 0 0 0,-8.969167 h -19.05072 a 4.4845831,4.4845831 0 0 0 -0.183935,0 z M 23.098042,11.185179 6.8650102e-4,89.10481 H 21.530187 L 24.998733,73.181039 H 45.63482 L 49.103367,89.10481 H 71.079575 L 47.982222,11.185179 Z m 12.218734,14.79387 7.059717,32.40812 H 28.257064 Z"
+     id="Tracé_40"
+     inkscape:connector-curvature="0" />
+</svg>

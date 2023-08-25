@@ -5,15 +5,15 @@ A set of icon font and SVG for use with GIS and spatial analysis tools
 
 [Online examples]()
 
-### Install
+### Install in your projects
 
 ```javascript
-npm install git+https://gitlab.com/ignf/macarte/font-ign.git 
+npm install git+https://github.com/IGNF-Ma-carte/font-ign.git 
 ```
 
-Then you can access the fonts as node module inside the font-gis/public folder.
+Then you can access the fonts as node module inside the font-ign/docs folder.
 ```javascript
-import 'font-ign/public/font-ign.css'
+import 'font-ign/docs/font-ign.css'
 ```
 
 ### using Font-IGN
@@ -22,7 +22,7 @@ You can use Font-IGN as a font or as SVG symbols or images.
 
 To use it in a web page, just add the css in your project.
 ```html
-<link href="https://path/to/font-ign/public/font-ign.css" rel="stylesheet" />
+<link href="https://path/to/font-ign/docs/font-ign.css" rel="stylesheet" />
 ```
 Then use an inline element with a class prefixed with `fi-` to add a new icon.    
 ```html
@@ -33,7 +33,7 @@ Then use an inline element with a class prefixed with `fi-` to add a new icon.
 ```
 Or use it as an svg sprite (svg sprites are inlocated in the `./dist/font-ign.svg` file):    
 ```html
-<svg class="font-ign fi-3x"><use xlink:href="path/to/font-ign/public/font-ign.svg#fg-polygon" /></svg>
+<svg class="font-ign fi-3x"><use xlink:href="path/to/font-ign/docs/font-ign.svg#fg-polygon" /></svg>
 ```
 
 ## Contributing
@@ -60,8 +60,8 @@ npm start
 Copyright (c) 2021 IGN-France   
 Font-IGN is free, open source, and GPL friendly. You can use it for commercial projects, open source projects, or really almost whatever you want. Read full Font-GIS license
 
-* Font-GIS font is licensed under the SIL OFL 1.1 License
+* Font-IGN font is licensed under the SIL OFL 1.1 License
 * Icons and SVG files are licensed under the CC BY 4.0 License
 * Codes and all non font or icon files are licensed under the MIT License
 
-Attribution is required by MIT, SIL OFL, and CC BY licenses. Font-GIS files already contain embedded comments with sufficient attribution, so you shouldn't need to do anything additional when using these files normally.
+Attribution is required by MIT, SIL OFL, and CC BY licenses. Font-IGN files already contain embedded comments with sufficient attribution, so you shouldn't need to do anything additional when using these files normally.

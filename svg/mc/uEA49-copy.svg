@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="icon-copy"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   version="1.1"
+   sodipodi:docname="copy.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.3166667"
+     inkscape:cx="-8.8944723"
+     inkscape:cy="284.47236"
+     inkscape:window-width="2880"
+     inkscape:window-height="1721"
+     inkscape:window-x="1909"
+     inkscape:window-y="3"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="icon-copy" />
+  <rect
+     id="Rectangle_123"
+     data-name="Rectangle 123"
+     width="30"
+     height="30"
+     fill="none"
+     x="0"
+     y="0" />
+  <g
+     id="Copy"
+     transform="matrix(4.4432596,0,0,4.4432596,7.1025466,0.02221602)">
+    <path
+       id="Soustraction_11"
+       data-name="Soustraction 11"
+       d="M 14.558,20 H 1 A 1,1 0 0 1 0,19 V 1 A 1,1 0 0 1 1,0 h 13.558 a 1,1 0 0 1 1,1 v 18 a 1,1 0 0 1 -1,1 z M 1.778,1.778 v 16.448 h 12 V 1.778 Z"
+       transform="translate(0,2.501)"
+       fill="#091625" />
+    <path
+       id="Tracé_93"
+       data-name="Tracé 93"
+       d="m 6432.31,-5055 h -3.752 v -1.777 h 3.224 v -16.451 h -12 v 1.975 H 6418 v -2.5 a 1.255,1.255 0 0 1 1.253,-1.253 h 13.058 a 1.253,1.253 0 0 1 1.249,1.253 v 17.5 a 1.251,1.251 0 0 1 -1.25,1.253 z"
+       transform="translate(-6414.251,5075.001)"
+       fill="#091625" />
+  </g>
+</svg>

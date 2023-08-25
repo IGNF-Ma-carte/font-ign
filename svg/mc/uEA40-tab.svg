@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="icon-tab"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   version="1.1"
+   sodipodi:docname="icon-tab.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="13.266667"
+     inkscape:cx="51.444724"
+     inkscape:cy="49.258794"
+     inkscape:window-width="2880"
+     inkscape:window-height="1721"
+     inkscape:window-x="1909"
+     inkscape:window-y="3"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="icon-tab" />
+  <g
+     id="Groupe"
+     transform="matrix(4.4442822,0,0,4.4442822,0.00182451,11.112531)">
+    <path
+       id="Combined_Shape"
+       data-name="Combined Shape"
+       d="M 19.688,17.5 H 2.813 A 2.869,2.869 0 0 1 0,14.583 V 2.917 A 2.869,2.869 0 0 1 2.813,0 H 19.688 A 2.869,2.869 0 0 1 22.5,2.917 V 14.583 A 2.869,2.869 0 0 1 19.688,17.5 Z M 2.813,1.944 A 0.957,0.957 0 0 0 1.876,2.917 v 11.666 a 0.956,0.956 0 0 0 0.937,0.972 h 16.875 a 0.957,0.957 0 0 0 0.938,-0.972 V 2.917 A 0.957,0.957 0 0 0 19.688,1.944 Z"
+       fill="#091625" />
+    <path
+       id="Union_10"
+       data-name="Union 10"
+       d="M 1.043,5.38 A 1.02,1.02 0 0 1 0,4.379 V 0 H 2 V 3.378 H 7 V 0 h 2 v 3.378 h 5.641 a 1,1 0 1 1 0,2 z"
+       transform="translate(6.752,1.249)"
+       fill="#091625" />
+  </g>
+</svg>

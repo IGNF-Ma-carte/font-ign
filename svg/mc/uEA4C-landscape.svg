@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="icon-landscape"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   version="1.1"
+   sodipodi:docname="uEA4C-landscape.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="6.6333333"
+     inkscape:cx="42.135679"
+     inkscape:cy="39.723619"
+     inkscape:window-width="2880"
+     inkscape:window-height="1721"
+     inkscape:window-x="1909"
+     inkscape:window-y="3"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="icon-landscape" />
+  <path
+     id="Tracé_96"
+     style="stroke-width:4.44129"
+     d="M 4.4414062 11.109375 A 4.4412861 4.4412861 0 0 0 0 15.550781 L 0 84.449219 A 4.4412861 4.4412861 0 0 0 4.4414062 88.890625 L 95.558594 88.835938 A 4.4412861 4.4412861 0 0 0 100 84.396484 L 100 38.078125 A 4.4412861 4.4412861 0 0 0 98.699219 34.933594 L 76.140625 12.40625 A 4.4412861 4.4412861 0 0 0 73.001953 11.109375 L 4.4414062 11.109375 z M 8.8828125 19.992188 L 67.730469 19.992188 L 67.730469 38.873047 A 4.4412861 4.4412861 0 0 0 72.171875 43.314453 L 91.117188 43.314453 L 91.117188 79.958984 L 8.8828125 80.007812 L 8.8828125 19.992188 z M 76.611328 25.433594 L 85.621094 34.431641 L 76.611328 34.431641 L 76.611328 25.433594 z " />
+</svg>

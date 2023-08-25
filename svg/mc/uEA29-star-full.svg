@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="icon-star-full"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   version="1.1"
+   sodipodi:docname="uEA29-star-full.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="971"
+     id="namedview5"
+     showgrid="false"
+     inkscape:zoom="7.8666667"
+     inkscape:cx="-8.1991525"
+     inkscape:cy="15"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="icon-star-full" />
+  <path
+     style="fill:#091625;stroke-width:4.99976444"
+     inkscape:connector-curvature="0"
+     d="M 32.935805,31.075884 45.925191,4.7621236 a 4.5447858,4.5447858 0 0 1 8.149617,0 l 12.999387,26.3137604 29.04863,4.2448 a 4.5447858,4.5447858 0 0 1 2.499884,7.754634 l -20.999011,20.469034 4.959767,28.913637 a 4.5447858,4.5447858 0 0 1 -6.59469,4.789777 L 49.995001,83.588409 23.996225,97.247766 A 4.5447858,4.5447858 0 0 1 17.401538,92.457989 L 22.361301,63.544352 1.3772916,43.075318 a 4.5447858,4.5447858 0 0 1 2.4998821,-7.754634 z"
+     data-name="Shape"
+     id="Shape-2" />
+</svg>

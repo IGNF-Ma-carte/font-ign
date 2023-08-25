@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="uEA34-theme-education.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.4071425"
+     inkscape:cx="331.52293"
+     inkscape:cy="207.15741"
+     inkscape:window-width="2880"
+     inkscape:window-height="1721"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11" />
+  <path
+     d="m 22.446884,12.756804 c 0,-1.454817 1.180705,-2.634433 2.634433,-2.634433 1.456558,0 2.636609,1.179616 2.636609,2.634433 v 53.537759 c 0,1.454381 -1.180704,2.63661 -2.634432,2.63661 -1.454816,0 -2.634432,-1.181794 -2.634432,-2.63661 z M 20.64981,79.858623 h 68.125112 c 0.20858,0 0.41062,-0.02939 0.60461,-0.07577 0.0157,0 0.0283,0.0026 0.044,0.0026 1.45395,0 2.63443,-1.180052 2.63443,-2.634432 V 2.668436 C 92.057962,1.21362 90.876392,0.034 89.423532,0.034 H 20.668098 c -7.014992,0 -12.7214768,5.706489 -12.7214768,12.719304 0,0.09406 0.01829,0.183322 0.02743,0.274329 -0.0091,6.479397 -0.08927,66.013212 -0.0091,73.82942 -0.005,0.152841 -0.02395,0.302198 -0.02395,0.45678 0,6.74284 5.2797508,12.264262 11.9224388,12.68011 0.133422,0.02092 0.264055,0.04008 0.402309,0.04008 h 69.170173 c 1.45395,0 2.63443,-1.180051 2.63443,-2.634432 v -9.9194 c 0,-1.45438 -1.18179,-2.634432 -2.63443,-2.634432 -1.45394,0 -2.63443,1.181358 -2.63443,2.634432 v 7.284968 H 20.67942 c -4.006079,0 -7.274081,-3.178737 -7.435195,-7.145626 0.0039,-0.0712 0.01676,-0.137818 0.01524,-0.209666 -0.0022,-0.116045 -0.0065,-0.296101 -0.0087,-0.535595 0.230132,-3.901572 3.470484,-7.010638 7.428664,-7.010638"
+     style="isolation:auto;mix-blend-mode:normal;stroke-width:0.217722"
+     overflow="visible"
+     solid-color="#000000"
+     id="path7" />
+</svg>

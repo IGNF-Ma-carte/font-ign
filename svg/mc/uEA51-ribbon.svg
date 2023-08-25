@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="icon-ribbon"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   version="1.1"
+   sodipodi:docname="ribbon.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.3166667"
+     inkscape:cx="19.447236"
+     inkscape:cy="57.437186"
+     inkscape:window-width="2880"
+     inkscape:window-height="1721"
+     inkscape:window-x="1909"
+     inkscape:window-y="3"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="icon-ribbon" />
+  <path
+     id="Union_11"
+     data-name="Union 11"
+     d="M 17.026927,99.998788 A 4.0815834,4.0815834 0 0 1 12.945344,95.917209 V 33.350616 q 0,-0.09796 0,-0.195916 V 15.310017 A 15.322264,15.322264 0 0 1 28.251282,-2.3400618e-6 H 71.744635 A 15.322264,15.322264 0 0 1 87.054655,15.305936 V 33.1547 q 0,0.09796 0,0.195916 v 62.566593 a 4.0815834,4.0815834 0 0 1 -6.70196,3.130579 L 50.238772,73.839924 19.626896,99.068188 a 4.0815834,4.0815834 0 0 1 -2.599969,0.9306 z M 21.108511,33.542451 V 87.268334 L 47.663293,65.386965 a 4.0815834,4.0815834 0 0 1 5.216263,0 L 78.895569,87.162212 V 33.542451 q 0,-0.09796 0,-0.195916 V 15.310017 A 7.1509342,7.1509342 0 0 0 71.744635,8.1631647 H 28.251282 a 7.1509342,7.1509342 0 0 0 -7.142771,7.1468523 v 18.040599 q 0,0.09796 0,0.191835 z"
+     fill="#091625"
+     style="stroke-width:4.08158" />
+</svg>
