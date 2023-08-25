@@ -1,15 +1,15 @@
 /* font-ign - v.1.0.0 
  * IGN icon font set
- * 2023 (c) Jean-Marc Viglino - IGNF
+ * 2023 (c) IGNF - OFL-1.1
  * https://github.com/IGNF-Ma-carte/font-ign
  */
 @font-face {
   font-family: "font-ign";
-  src: url('./fonts/font-ign.eot?t=1692946043550');
+  src: url('./fonts/font-ign.eot?t=1692950365733');
   src: url('./fonts/font-ign.eot?#iefix') format('eot'),
-    url('./fonts/font-ign.woff2?t=1692946043550') format('woff2'),
-    url('./fonts/font-ign.woff?t=1692946043550') format('woff'),
-    url('./fonts/font-ign.ttf?t=1692946043550') format('truetype'),
+    url('./fonts/font-ign.woff2?t=1692950365733') format('woff2'),
+    url('./fonts/font-ign.woff?t=1692950365733') format('woff'),
+    url('./fonts/font-ign.ttf?t=1692950365733') format('truetype'),
     url('./fonts/font-ign.svg#font-ign') format('svg');
   font-weight: normal;
   font-style: normal;
@@ -304,4 +304,4 @@
 .fi-theme-sante:before { content: "\ea36"; }
 .fi-theme-societe:before { content: "\ea37"; }
 .fi-theme-transports:before { content: "\ea38"; }
-.fi-theme-innovation:before { content: "\ea42"; }
+.fi-theme-innovation:before { content: "\ea42"; }

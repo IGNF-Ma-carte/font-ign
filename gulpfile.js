@@ -69,7 +69,7 @@ gulp.task('Iconfont', function(done) {
         gulp.src(template+'.css')
           .pipe(consolidate('lodash', options))
           .pipe(rename({ basename: 'temp' }))
-          .pipe(gulp.dest('css/'))
+          .pipe(gulp.dest('./'))
           .on('finish', cb);
       });
     },
@@ -163,12 +163,12 @@ gulp.task('store', function(){
 
 // Rename css to force watch / serve
 gulp.task('renameCSS', function(){
-  return gulp.src('./css/temp.css')
+  return gulp.src('./temp.css')
     .pipe(vinylPaths(del)) // delete the original disk copy
     .pipe(rename(function (path) {
       path.basename = fontName;
     }))
-    .pipe(gulp.dest("./css"));
+    .pipe(gulp.dest("./"));
 });
 
 gulp.task("default", gulp.series(gulp.task("Iconfont"), gulp.task("store"), gulp.task("renameCSS")));
