@@ -14,15 +14,15 @@
     "maps"
   ],
   "author": {
-    "name": "Jean-Marc Viglino",
-    "url": "https://github.com/Viglino"
+    "name": "IGNF",
+    "url": "https://github.com/IGNF-Ma-carte"
   },
-  "homepage": "https://github.com/Viglino/font-ign",
+  "homepage": "https://github.com/IGNF-Ma-carte/font-ign",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Viglino/font-ign.git"
+    "url": "git+https://github.com/IGNF-Ma-carte/font-ign.git"
   },
-  "license": "IGN",
+  "license": "OFL-1.1",
   "devDependencies": {
     "async": "^3.2.0",
     "del": "^6.0.0",

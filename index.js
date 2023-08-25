@@ -117,7 +117,7 @@ function save(opt) {
     case 'svg': {
       console.log('savesvg')
       $.ajax({
-        url: './font-ign.svg',
+        url: './dist/font-ign.svg',
         dataType : 'text',
         success: function(rep) {
           var doc = (new DOMParser()).parseFromString(rep, "application/xml");

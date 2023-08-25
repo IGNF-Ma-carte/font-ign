@@ -3,9 +3,9 @@
   "description": "IGN icon font set",
   "version": "1.0.0",
   "prefix": "fi",
-  "copyright": "Jean-Marc Viglino",
-  "license": "IGN",
-  "homepage": "https://github.com/Viglino/font-ign",
+  "copyright": "IGNF",
+  "license": "OFL-1.1",
+  "homepage": "https://github.com/IGNF-Ma-carte/font-ign",
   "glyphs": {
     "fi-access": { "name": "access", "code": 59648, "theme": "ign", "search": "", "order": 14, "version": 100000, "date": "2021-10-01" },
     "fi-external-link": { "name": "external-link", "code": 59649, "theme": "ign", "search": "", "order": 15, "version": 100000, "date": "2021-10-01" },

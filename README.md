@@ -11,9 +11,9 @@ A set of icon font and SVG for use with GIS and spatial analysis tools
 npm install git+https://github.com/IGNF-Ma-carte/font-ign.git 
 ```
 
-Then you can access the fonts as node module inside the font-ign/docs folder.
+Then you can access the fonts as node module inside the `font-ign` folder.
 ```javascript
-import 'font-ign/docs/font-ign.css'
+import 'font-ign/font-ign.css'
 ```
 
 ### using Font-IGN
@@ -22,7 +22,7 @@ You can use Font-IGN as a font or as SVG symbols or images.
 
 To use it in a web page, just add the css in your project.
 ```html
-<link href="https://path/to/font-ign/docs/font-ign.css" rel="stylesheet" />
+<link href="https://path/to/font-ign/font-ign.css" rel="stylesheet" />
 ```
 Then use an inline element with a class prefixed with `fi-` to add a new icon.    
 ```html
@@ -31,9 +31,9 @@ Then use an inline element with a class prefixed with `fi-` to add a new icon.
 <!-- using a <span> is more semantically correct but a little bit verbose. -->
 <span class="fi-polygon"></span>
 ```
-Or use it as an svg sprite (svg sprites are inlocated in the `./dist/font-ign.svg` file):    
+Or use it as an svg sprite (svg sprites are located in the `./dist/font-ign.svg` file):    
 ```html
-<svg class="font-ign fi-3x"><use xlink:href="path/to/font-ign/docs/font-ign.svg#fg-polygon" /></svg>
+<svg class="font-ign fi-3x"><use xlink:href="path/to/font-ign/dist/font-ign.svg#fg-polygon" /></svg>
 ```
 
 ## Contributing
