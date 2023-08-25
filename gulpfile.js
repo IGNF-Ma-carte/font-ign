@@ -65,24 +65,24 @@ gulp.task('Iconfont', function(done) {
         gulp.src(template+'.json')
           .pipe(consolidate('lodash', options))
           .pipe(rename({ basename: fontName }))
-          .pipe(gulp.dest('./docs'));
+          .pipe(gulp.dest('./'));
         gulp.src(template+'.css')
           .pipe(consolidate('lodash', options))
           .pipe(rename({ basename: 'temp' }))
-          .pipe(gulp.dest('docs/'))
+          .pipe(gulp.dest('css/'))
           .on('finish', cb);
       });
     },
     function handleFonts (cb) {
       iconStream
-        .pipe(gulp.dest('./docs/fonts/'))
+        .pipe(gulp.dest('./fonts/'))
         .on('finish', cb);
     }
   ], done);
 });
 
 /** Get glyphs */
-var font = JSON.parse(fs.readFileSync('./docs/'+fontName+'.json'));
+var font = JSON.parse(fs.readFileSync('./'+fontName+'.json'));
 
 function mapGlyphs (glyph) {
   var resp = { 
@@ -113,7 +113,7 @@ gulp.task('resname', function(){
       path.dirname = '';
       path.basename = path.basename.replace(/u([^-]*)-/,'');
     }))
-    .pipe(gulp.dest("./docs"));
+    .pipe(gulp.dest("./dist"));
 });
 
 /** Use svgstore to create svg sprites */
@@ -158,17 +158,17 @@ gulp.task('store', function(){
     .pipe(rename(function (path) {
       path.basename = fontName;
     }))
-    .pipe(gulp.dest('./docs'));
+    .pipe(gulp.dest('./dist'));
 });
 
 // Rename css to force watch / serve
 gulp.task('renameCSS', function(){
-  return gulp.src('./docs/temp.css')
+  return gulp.src('./css/temp.css')
     .pipe(vinylPaths(del)) // delete the original disk copy
     .pipe(rename(function (path) {
       path.basename = fontName;
     }))
-    .pipe(gulp.dest("./docs"));
+    .pipe(gulp.dest("./css"));
 });
 
 gulp.task("default", gulp.series(gulp.task("Iconfont"), gulp.task("store"), gulp.task("renameCSS")));
