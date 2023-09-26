@@ -1,6 +1,14 @@
 # Font-IGN
 A set of icon font and SVG for use with GIS and spatial analysis tools
 
+<!--
+![](https://img.shields.io/github/v/release/IGNF-Ma-carte/font-ign)
+-->
+![](https://img.shields.io/github/stars/IGNF-Ma-carte/font-ign)
+![](https://img.shields.io/github/commit-activity/m/IGNF-Ma-carte/font-ign)
+![](https://img.shields.io/github/contributors/IGNF-Ma-carte/font-ign)
+![](https://img.shields.io/github/license/IGNF-Ma-carte/font-ign)
+
 ## Getting started
 
 [Online examples](https://ignf-ma-carte.github.io/font-ign/)
