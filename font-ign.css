@@ -1,4 +1,4 @@
-/* font-ign - v.1.0.0 
+/* font-ign - v.1.0.1
  * IGN icon font set
  * 2023 (c) IGNF - OFL-1.1
  * https://github.com/IGNF-Ma-carte/font-ign
@@ -304,4 +304,4 @@
 .fi-theme-sante:before { content: "\ea36"; }
 .fi-theme-societe:before { content: "\ea37"; }
 .fi-theme-transports:before { content: "\ea38"; }
-.fi-theme-innovation:before { content: "\ea42"; }
+.fi-theme-innovation:before { content: "\ea42"; }

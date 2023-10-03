@@ -1,6 +1,6 @@
 {
   "name": "font-ign",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "IGN icon font set",
   "main": "index.js",
   "scripts": {
