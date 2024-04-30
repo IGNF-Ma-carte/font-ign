@@ -147,6 +147,7 @@
     "fi-theme-sante": { "name": "theme-sante", "code": 59958, "theme": "theme", "search": "", "order": 29436209, "version": 100000, "date": "2021-12-07" },
     "fi-theme-societe": { "name": "theme-societe", "code": 59959, "theme": "theme", "search": "", "order": 29436209, "version": 100000, "date": "2021-12-07" },
     "fi-theme-transports": { "name": "theme-transports", "code": 59960, "theme": "theme", "search": "", "order": 29436209, "version": 100000, "date": "2021-12-07" },
-    "fi-theme-innovation": { "name": "theme-innovation", "code": 59970, "theme": "theme", "search": "", "order": 34779104, "version": 100000, "date": "2022-02-07" }
+    "fi-theme-innovation": { "name": "theme-innovation", "code": 59970, "theme": "theme", "search": "", "order": 34779104, "version": 100000, "date": "2022-02-07" },
+    "fi-x-twitter": { "name": "x-twitter", "code": 60003, "theme": "ign", "search": "", "order": 26, "version": 100001, "date": "2024-04-30" }
   }
 }
