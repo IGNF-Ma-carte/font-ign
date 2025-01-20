@@ -1,15 +1,15 @@
 /* font-ign - v.1.0.1 
  * IGN icon font set
- * 2024 (c) IGNF - OFL-1.1
+ * 2025 (c) IGNF - OFL-1.1
  * https://github.com/IGNF-Ma-carte/font-ign
  */
 @font-face {
   font-family: "font-ign";
-  src: url('./fonts/font-ign.eot?t=1714468663371');
+  src: url('./fonts/font-ign.eot?t=1737365370089');
   src: url('./fonts/font-ign.eot?#iefix') format('eot'),
-    url('./fonts/font-ign.woff2?t=1714468663371') format('woff2'),
-    url('./fonts/font-ign.woff?t=1714468663371') format('woff'),
-    url('./fonts/font-ign.ttf?t=1714468663371') format('truetype'),
+    url('./fonts/font-ign.woff2?t=1737365370089') format('woff2'),
+    url('./fonts/font-ign.woff?t=1737365370089') format('woff'),
+    url('./fonts/font-ign.ttf?t=1737365370089') format('truetype'),
     url('./fonts/font-ign.svg#font-ign') format('svg');
   font-weight: normal;
   font-style: normal;
@@ -222,6 +222,8 @@
 .fi-student:before { content: "\ea60"; }
 .fi-libre:before { content: "\ea61"; }
 .fi-price:before { content: "\ea62"; }
+.fi-x-twitter:before { content: "\ea63"; }
+.fi-bluesky:before { content: "\ea64"; }
 .fi-add:before { content: "\ea01"; }
 .fi-delete:before { content: "\ea02"; }
 .fi-delivery:before { content: "\ea03"; }
@@ -305,4 +307,3 @@
 .fi-theme-societe:before { content: "\ea37"; }
 .fi-theme-transports:before { content: "\ea38"; }
 .fi-theme-innovation:before { content: "\ea42"; }
-.fi-x-twitter:before { content: "\ea63"; }

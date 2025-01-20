@@ -65,6 +65,8 @@
     "fi-student": { "name": "student", "code": 60000, "theme": "ign", "search": "", "order": 64512006, "version": 100000, "date": "2023-01-17" },
     "fi-libre": { "name": "libre", "code": 60001, "theme": "ign", "search": "", "order": 65973757, "version": 100000, "date": "2023-02-03" },
     "fi-price": { "name": "price", "code": 60002, "theme": "ign", "search": "", "order": 65973757, "version": 100000, "date": "2023-02-03" },
+    "fi-x-twitter": { "name": "x-twitter", "code": 60003, "theme": "ign", "search": "", "order": 26, "version": 100001, "date": "2024-04-30" },
+    "fi-bluesky": { "name": "bluesky", "code": 60004, "theme": "ign", "search": "", "order": 26, "version": 100001, "date": "2025-01-20" },
     "fi-add": { "name": "add", "code": 59905, "theme": "mc", "search": "", "order": 28213951, "version": 100000, "date": "2021-10-01" },
     "fi-delete": { "name": "delete", "code": 59906, "theme": "mc", "search": "", "order": 28213951, "version": 100000, "date": "2021-10-01" },
     "fi-delivery": { "name": "delivery", "code": 59907, "theme": "mc", "search": "", "order": 28213951, "version": 100000, "date": "2021-10-01" },
@@ -147,7 +149,6 @@
     "fi-theme-sante": { "name": "theme-sante", "code": 59958, "theme": "theme", "search": "", "order": 29436209, "version": 100000, "date": "2021-12-07" },
     "fi-theme-societe": { "name": "theme-societe", "code": 59959, "theme": "theme", "search": "", "order": 29436209, "version": 100000, "date": "2021-12-07" },
     "fi-theme-transports": { "name": "theme-transports", "code": 59960, "theme": "theme", "search": "", "order": 29436209, "version": 100000, "date": "2021-12-07" },
-    "fi-theme-innovation": { "name": "theme-innovation", "code": 59970, "theme": "theme", "search": "", "order": 34779104, "version": 100000, "date": "2022-02-07" },
-    "fi-x-twitter": { "name": "x-twitter", "code": 60003, "theme": "ign", "search": "", "order": 26, "version": 100001, "date": "2024-04-30" }
+    "fi-theme-innovation": { "name": "theme-innovation", "code": 59970, "theme": "theme", "search": "", "order": 34779104, "version": 100000, "date": "2022-02-07" }
   }
 }
